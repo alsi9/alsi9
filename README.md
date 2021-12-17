@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I am Alsu 👋
 
 ### My_progress:
 
