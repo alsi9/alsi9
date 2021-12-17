@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### My_progress:
+
+![ephantom's stats](https://badge42.herokuapp.com/api/stats/ephantom)
+
+<!-- 
+
+
 <!--
 **alsi9/alsi9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
