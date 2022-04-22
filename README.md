@@ -2,6 +2,8 @@
 
 ### My_progress:
 
+![](./src/Banner.png)
+
 <p align="center">
 <a href="https://github.com/JaeSeoKim/badge42">
     <img src="https://badge42.vercel.app/api/v2/cl2a5hl0u003009msrrys0p0v/stats?cursusId=21&coalitionId=98" alt="ephantom's 42 stats" /></a>
