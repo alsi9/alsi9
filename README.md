@@ -6,19 +6,19 @@
 
 ## 📚 42 My progress
 
-| No  | Project                                    | Status |   | No  | Project       | Status |   | No  | Project                        | Status |
-| :-: | :----------------------------------------- | :----: |   | :-: | :------------ | :----: | - | :-: | :----------------------------- | :----: |
-| 1   | [libft](../../../libft_a)                  | ✅     |   | 10  | cub3d         | 🛠 ️    |   | 20  | NetPractice                    |  ✅     |
-| 2   | [Born2beroot](../../../Born2beRoot)        | ✅     |   | -   | miniRT        | 🔒      |   | 21  | ft_containers                  | 🛠️      |
-| 3   | [ft_printf](../../../printf)               | ✅     |   | 11  | [CPP Module 00](../../../cpp_modules/module00) | ✅     |   | 22  | ft_irc                         | 🛠️      |
-| 4   | [get_next_line](../../../get_next_line)    | ✅     |   | 12  | [CPP Module 01](../../../cpp_modules/module01) | ✅     |   | 23  | webserv                        | 🛠️      |
-| -   | FdF                                        | 🔒     |   | 13  | [CPP Module 02](../../../cpp_modules/module02) | ✅     |   | 24  | inception                      | 🛠️      |
-| 5   | [so_long](../../../so_long)                | ✅     |   | 14  | [CPP Module 03](../../../cpp_modules/module03) | ✅     |   | 25  | ft_transcendence               | 🛠️      |
-| -   | minitalk                                   | 🔒     |   | 15  | [CPP Module 04](../../../cpp_modules/module04) | ✅     |   |     |                                |         |
-| 6   | [pipex](../../../pipex)                    | ✅     |   | 16  | [CPP Module 05](../../../cpp_modules/module05) | ✅     |   |     |                                |         |
-| 7   | [push_swap](../../../Push_swap)            | ✅     |   | 17  | [CPP Module 06](../../../cpp_modules/module06) | ✅     |   |     |                                |         |
-| 8   | [minishell](../../../minishell)            | ✅     |   | 18  | [CPP Module 07](../../../cpp_modules/module07) | ✅     |   |     |                                |         |
-| 9   | [philosophers](../../../philosophers)      | ✅     |   | 19  | [CPP Module 08](../../../cpp_modules/module08) | ✅     |   |     |                                |         |
+| No  | Project                                    | Status | No  | Project       | Status | No  | Project                        | Status |
+| :-: | :----------------------------------------- | :----: | :-: | :------------ | :----: | :-: | :----------------------------- | :----: |
+| 1   | [libft](../../../libft_a)                  | ✅     | 10  | cub3d         | 🛠 ️    | 20  | NetPractice                    |  ✅     |
+| 2   | [Born2beroot](../../../Born2beRoot)        | ✅     | -   | miniRT        | 🔒      | 21  | ft_containers                  | 🛠️      |
+| 3   | [ft_printf](../../../printf)               | ✅     | 11  | [CPP Module 00](../../../cpp_modules/module00) | ✅     | 22  | ft_irc                         | 🛠️      |
+| 4   | [get_next_line](../../../get_next_line)    | ✅     | 12  | [CPP Module 01](../../../cpp_modules/module01) | ✅     | 23  | webserv                        | 🛠️      |
+| -   | FdF                                        | 🔒     | 13  | [CPP Module 02](../../../cpp_modules/module02) | ✅     | 24  | inception                      | 🛠️      |
+| 5   | [so_long](../../../so_long)                | ✅     | 14  | [CPP Module 03](../../../cpp_modules/module03) | ✅     | 25  | ft_transcendence               | 🛠️      |
+| -   | minitalk                                   | 🔒     | 15  | [CPP Module 04](../../../cpp_modules/module04) | ✅     |     |                                |         |
+| 6   | [pipex](../../../pipex)                    | ✅     | 16  | [CPP Module 05](../../../cpp_modules/module05) | ✅     |     |                                |         |
+| 7   | [push_swap](../../../Push_swap)            | ✅     | 17  | [CPP Module 06](../../../cpp_modules/module06) | ✅     |     |                                |         |
+| 8   | [minishell](../../../minishell)            | ✅     | 18  | [CPP Module 07](../../../cpp_modules/module07) | ✅     |     |                                |         |
+| 9   | [philosophers](../../../philosophers)      | ✅     | 19  | [CPP Module 08](../../../cpp_modules/module08) | ✅     |     |                                |         |
 
 <br />
 
