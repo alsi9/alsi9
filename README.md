@@ -8,7 +8,7 @@
 
 | No  | Project                                    | Status | No  | Project       | Status | No  | Project                        | Status |
 | :-: | :----------------------------------------- | :----: | :-: | :------------ | :----: | :-: | :----------------------------- | :----: |
-| 1   | [libft](../../../libft_a)                  | ✅     | 10  | cub3d         | 🛠 ️    | 20  | NetPractice                    |  ✅     |
+| 1   | [libft](../../../libft_a)                  | ✅     | 10  | [cub3d](../../../Cub3D)         | ✅ ️    | 20  | NetPractice                    |  ✅     |
 | 2   | [Born2beroot](../../../Born2beRoot)        | ✅     | -   | miniRT        | 🔒      | 21  | ft_containers                  | 🛠️      |
 | 3   | [ft_printf](../../../printf)               | ✅     | 11  | [CPP Module 00](../../../cpp_modules/tree/main/module00) | ✅     | 22  | ft_irc                         | 🛠️      |
 | 4   | [get_next_line](../../../get_next_line)    | ✅     | 12  | [CPP Module 01](../../../cpp_modules/tree/main/module01) | ✅     | 23  | webserv                        | 🛠️      |
