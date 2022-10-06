@@ -4,7 +4,7 @@
 
 [comment]: <> ([![ephantom's 42 stats]&#40;https://badge42.vercel.app/api/v2/cl2a5hl0u003009msrrys0p0v/stats?cursusId=21&coalitionId=98&#41;]&#40;https://github.com/JaeSeoKim/badge42&#41;)
 
-## 📚 42 My progress
+## 📚 42 My progress 
 
 | No  | Project                                    | Status | No  | Project       | Status | No  | Project                        | Status |
 | :-: | :----------------------------------------- | :----: | :-: | :------------ | :----: | :-: | :----------------------------- | :----: |
